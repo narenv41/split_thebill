@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <color name="your_grey_color">#808080</color>
+
+    <style name="Base.Theme.Split_thebill" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+    <style name="Theme.Split_thebill" parent="Base.Theme.Split_thebill" />
+</resources>

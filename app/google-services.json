@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628239769007",
+    "project_id": "split-the-bill-89d11",
+    "storage_bucket": "split-the-bill-89d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628239769007:android:540d7f8d6888308e1da35a",
+        "android_client_info": {
+          "package_name": "com.example.split_thebill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9_EQE5JGOBu-QNUee_fDZDg0Z1wO_WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
